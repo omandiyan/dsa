@@ -1,2 +1,2 @@
 # DSA
-A few Data Structures and algorithm basics and then some problems that I have solved will be a part of this repository.
+This repository is dedicated to showcasing the basics of Data Structures and Algorithms. It includes a comprehensive collection of various data structures, algorithms, and their implementations. Along with that, it also features a range of algorithmic problems that I have solved, showcasing my understanding and proficiency in the field. Whether you're a beginner looking to get started with DSA or an experienced programmer seeking to brush up on your skills, this repository serves as a valuable resource for all.
